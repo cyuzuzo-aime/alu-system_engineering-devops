@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 # This script uses ssh with the private key ~/.ssh/school to connect as user ubuntu
 
-ssh -i ~/.ssh/school root@18.212.67.112
+ssh -i ~/.ssh/school ubuntu@18.212.67.112
